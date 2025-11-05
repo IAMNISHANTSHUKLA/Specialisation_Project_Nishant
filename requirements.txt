@@ -1,0 +1,4 @@
+torch==2.3.1+cpu
+numpy
+scikit-learn
+gradio
